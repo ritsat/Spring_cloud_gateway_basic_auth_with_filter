@@ -1,4 +1,4 @@
-# Spring_cloud_gateway_security_basic_auth
+# Spring_cloud_gateway_basic_auth_with_filter
 
 Basic authentication in Spring cloud gateway using custom filter.
 
